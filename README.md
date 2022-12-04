@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abhilahase
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...c language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently studying in walchand college of enginerring
+- 💞️ I’m currently doing competitive coding and I'm 3 star coder on codechef
+- 📫 you can contact me through my email I'd.
 
 <!---
 abhilahase/abhilahase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
